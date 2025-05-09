@@ -96,7 +96,7 @@ When Didomi is implemented **outside of GTM**, this template can still help you:
 
 ```js
 gtag('consent', 'update', {
-  ad_storage: 'granted',  // based on vendor consent state
+  ad_storage: 'granted',  // based on purpose or vendor consent state
   analytics_storage: 'denied'
 });
 ```
