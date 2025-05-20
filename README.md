@@ -1,4 +1,4 @@
-# Didomi CMP Consent State – GTM Variable Template
+# Didomi CMP Consent State – GTM Variable Template (Unofficial)
 
 This is a Google Tag Manager custom **variable template** designed to work with the **[Didomi Consent Management Platform (CMP)](https://www.didomi.io/)**. It allows you to retrieve the consent state of a specific purpose or vendor and configure tag behavior accordingly.
 
