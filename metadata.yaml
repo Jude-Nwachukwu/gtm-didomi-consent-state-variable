@@ -3,9 +3,11 @@ homepage: https://dumbdata.co/
 documentation: https://github.com/Jude-Nwachukwu/gtm-didomi-consent-state-variable
 versions:
 # LATEST VERSION
+  - sha: 0116e4a4558f783abc09f8fd83f64c41ba77f6dc
+    changeNotes: Info json now has the categories specifications.
+
+#OLDER VERSION
   - sha: d4a10d8e46ac9384bba4384280ebe32a9554da1a
     changeNotes: Updated the variable custom template name.
-
-#INITIAL VERSION
   - sha: 945d34f2931cf1341825c3c118448f4be11790eb
     changeNotes: Initial release.
