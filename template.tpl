@@ -14,6 +14,9 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "DD Didomi CMP Consent State (Unofficial)",
+  "categories": [
+    "TAG_MANAGEMENT"
+  ],
   "description": "This variable template works with Didomi CMP to detect and retrieve a user\u0027s consent state for a vendor or consent purpose, helping control how tags are executed in Google Tag Manager.",
   "containerContexts": [
     "WEB"
